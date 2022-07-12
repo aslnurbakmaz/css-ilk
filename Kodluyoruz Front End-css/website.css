@@ -1,0 +1,11 @@
+.text-yellow{
+    color: yellowgreen;
+}
+.text-background {
+    background-color: pink;
+}
+
+body {background-color: pink;
+    color: grey;
+
+}
